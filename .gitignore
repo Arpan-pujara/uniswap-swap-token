@@ -9,6 +9,7 @@ keys.json
 
 # testing
 /coverage
+/.secret
 
 # production
 /build
